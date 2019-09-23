@@ -22,3 +22,6 @@ print ("Rank 4: Three Of A Kind         = 9.24%")          = Three same numbers 
 print ("Rank 3: Two Pair                = 22.51%")         = Two pairs of two same cards + Any card
 print ("Rank 2: One Pair                = 41.22%")         = One pair of two cards + Any three cards
 print ("Rank 1: High Card               = 14.06%")         = Does not match any of the above
+
+
+![](poker.gif)
